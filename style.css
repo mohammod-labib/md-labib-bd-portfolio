@@ -71,12 +71,12 @@ body{
     animation: appear 5s linear;
     animation-timeline: view();
     animation-range: entry 0% cover 15% ;
-    color: white;
+    color: red;
     font-size: 50px;
     width: 1000px;
     height: 200;
     position: absolute;
-    top:700px;
+    top:720px;
     left: 6%;
     
   
@@ -103,9 +103,9 @@ h1{
     animation-timeline: view();
     animation-range: entry 0% cover 10% ;
     color:white;
-    font-size: 90px;
+    font-size: 80px;
     position: absolute;
-    top: 1030px;
+    top: 1050px;
     left: 40%;
     z-index: 300;
 
@@ -200,7 +200,7 @@ h1{
     color: white;
     top: 1390px;
     position: absolute;
-    left: 12%;
+    left: 22%;
     font-size: 30px;
 }#ppd{
     color: white;
@@ -275,8 +275,8 @@ h1{
 .glow2{
     margin: 0 auto;
     padding: 2em;
-    width: 330px;
-    height: 100px;
+    width: 400px;
+    height: 150px;
     background-color:rgb(33, 32, 37) ;
     top: 1080px;
     left: 37%;
