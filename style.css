@@ -263,16 +263,16 @@ h1{
 }    
 .glow2{
     margin: 0 auto;
-    padding: 2em;
-    width: 330px;
+    
+    width: 430px;
     height: 70px;
-    background-color:rgb(4, 246, 20) ;
+    
     top: 1050px;
     left: 37%;
     position: absolute;
     border-radius: 10px;
     z-index: 10;
-    color:white;
+    color:yellow;
     font-size:60px;
     align-content:center;
   }
