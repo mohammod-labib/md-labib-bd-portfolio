@@ -76,7 +76,7 @@ body{
     width: 1000px;
     height: 200;
     position: absolute;
-    top:650px;
+    top:670px;
     left: 6%;
     
   
@@ -105,7 +105,7 @@ h1{
     color:white;
     font-size: 100px;
     position: absolute;
-    top: 1010px;
+    top: 1020px;
     left: 40%;
     z-index: 300;
 
@@ -191,27 +191,27 @@ h1{
 
 #pwd{
     color: white;
-    top: 1270px;
+    top: 1280px;
     position: absolute;
     left: 2%;
     font-size: 30px;
 }
 #pwr{
     color: white;
-    top: 1370px;
+    top: 1390px;
     position: absolute;
     left: 2%;
     font-size: 30px;
 }#ppd{
     color: white;
-    top: 1470px;
+    top: 1490px;
     position: absolute;
     left: 2%;
     font-size: 30px;
 }
 #pwriter{
     color: white;
-    top: 1250px;
+    top: 1290px;
     position: absolute;
     left: 67%;
     font-size: 70px;
@@ -258,7 +258,7 @@ h1{
   #myself1{
     color: white;
     position: absolute;
-    top: 820px;
+    top: 840px;
     left: 6%;
     font-size: 20px;
     width: 900px;
@@ -275,8 +275,8 @@ h1{
 .glow2{
     margin: 0 auto;
     padding: 2em;
-    width: 260px;
-    height: 50px;
+    width: 270px;
+    height: 80px;
     background-color:rgb(33, 32, 37) ;
     top: 1080px;
     left: 37%;
