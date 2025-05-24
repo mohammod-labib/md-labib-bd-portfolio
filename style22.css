@@ -257,6 +257,9 @@
     position: absolute;
     border-radius: 10px;
     z-index: 10;
+      font-size:30px;
+      font-align:center;
+      font-color:white;
   }
   @property --angle{
     syntax: "<angle>";
@@ -267,7 +270,7 @@
     --angle:0deg;
     content: '';
     position: absolute;
-    height: 80px;
+    height: 60px;
     width: 150px;
     background-color: rgb(246, 3, 3);
     background-image: conic-gradient( from var(--angle),transparent 10%,
