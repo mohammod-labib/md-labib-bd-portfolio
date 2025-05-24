@@ -44,7 +44,7 @@
     animation-range: entry 0% cover 15% ;
     color: white;
     font-size: 25px;
-    width: 350px;
+    width: 450px;
     height: 60px;
     position: absolute;
     top:670px;
@@ -249,15 +249,15 @@
   body .glow2{
     margin: 0 auto;
     padding: 2em;
-    width: 155px;
+    width: 305px;
     height: 30px;
-    background-color:rgb(33, 32, 37) ;
+    background-color:yellow ;
     top: 990px;
     left: 27%;
     position: absolute;
     border-radius: 10px;
     z-index: 10;
-      font-size:10px;
+      font-size:30px;
       align-content:center;
       color:white;
   }
