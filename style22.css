@@ -1,0 +1,400 @@
+@media all and (min-width:340px) and (max-width:549px) {
+    body #img1{
+       
+     width: 250px;
+     position: absolute;
+     z-index: 10;
+     top: 120px;
+    left: 15%;
+     order: 2;
+     margin-top: 0;
+        
+    }
+
+    body #line1{
+
+    background-color: rgb(240, 231, 231);
+    width: 0px;
+    height: 7px;
+    position: absolute;
+    top: 385px;
+    left: 10%;
+    z-index: 10;
+
+    }
+
+    body #box1{
+          background-color: rgb(4, 247, 105);
+    position: absolute;
+    top:210px;
+    left: 25%;
+    width: 170px;
+    height: 100px;
+    border-radius: 5px ;
+    border-color: rgb(118, 237, 229);
+    filter: blur(50px);
+    content:"";
+    animation: spin 2s linear infinite;
+    z-index: 1;
+
+    }
+    body #pro1{
+    animation: appear 5s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 15% ;
+    color: white;
+    font-size: 25px;
+    width: 300px;
+    height: 60px;
+    position: absolute;
+    top:650px;
+    left: 10%;
+    }
+    
+    body #self1{
+    color: white;
+    width: 350px;
+    height: 200px;
+    font-size: 35px;
+    position: absolute;
+    top:430px;
+    left: 14%;
+    }
+    body h1{
+    color:white;
+    position: absolute;
+    left:5%;
+    top:5px;
+    font-size: 25px;
+    }
+    body #line12{
+    background-color: white;
+    width: 480px;
+    height: 7px;
+    position: absolute;
+    top: 650px;
+    left: 0%;
+    z-index: 10;
+    
+    }
+    
+
+    body #skills1{
+    animation: appear 2s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 10% ;
+    color:white;
+    font-size: 50px;
+    position: absolute;
+    top: 980px;
+    left: 30%;
+    z-index: 300;
+
+}
+@keyframes appear {
+    from{
+        opacity: 0;
+        scale: 0.5;
+    }
+    to{
+        opacity: 1;
+        scale: 1;
+    }
+}
+
+    body .block1{
+   animation: appear 5s linear;
+   animation-timeline: view();
+   animation-range: entry 0% cover 20% ;
+    position: absolute;
+    top:1200px;
+    background-color: hsl(133, 100%, 50%);
+    width:250px;
+    height: 25px;
+    left: 38%;
+}
+    body .block2{
+    animation: appear 5s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 20% ;
+     position: absolute;
+     top:1300px;
+     background-color: hsl(133, 100%, 50%);
+     width:250px;
+     height: 25px;
+     left: 38%;
+ }
+    body .block3{
+    animation: appear 5s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 20% ;
+     position: absolute;
+     top:1400px;
+     background-color: hsl(133, 100%, 50%);
+     width:250px;
+     height: 25px;
+     left: 38%;
+ }
+ 
+    body .block11{
+    animation: appear 5s linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 20% ;
+     position: absolute;
+     top:1204px;
+     background-color: hsl(0, 0%, 5%);
+     width:157px;
+     height: 18px;
+     left: 39%;
+ }
+    body .block21{
+     animation: appear 5s linear;
+     animation-timeline: view();
+     animation-range: entry 0% cover 20% ;
+      position: absolute;
+      top:1304px;
+      background-color: hsl(0, 0%, 5%);
+      width:200px;
+      height: 18px;
+      left: 39%;
+  }
+    body .block31{
+     animation: appear 5s linear;
+     animation-timeline: view();
+     animation-range: entry 0% cover 20% ;
+      position: absolute;
+      top:1404px;
+      background-color: hsl(0, 0%, 0%);
+      width:230px;
+      height: 18px;
+      left: 39%;
+  }
+
+    body #pwd{
+    color: white;
+    top: 1190px;
+    position: absolute;
+    left: 6%;
+    font-size: 17px;
+}
+    body #pwr{
+    color: white;
+    top: 1280px;
+    position: absolute;
+    left: 14%;
+    font-size: 17px;
+}
+    body #ppd{
+    color: white;
+    width:20px;
+    top: 1380px;
+    position: absolute;
+    left: 10%;
+    font-size: 17px;
+}
+    body #pwriter{
+    color: white;
+    top: 1500px;
+    position: absolute;
+    left: 14%;
+    font-size: 40px;
+    z-index: 30;
+
+}
+    body #line13{
+    background-color: white;
+    width: 480px;
+    height: 7px;
+    position: absolute;
+    top: 1700px;
+    left: 0%;
+    z-index: 10;
+    
+ }
+
+  
+    body .fb1{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    color: white;
+    background-color: no; /* Facebook blue */
+    border-radius: 50%;
+    border: 2px solid;
+    border-color: rgb(15, 134, 232);
+    text-decoration: none;
+    font-size: 24px;
+    transition: background-color 0.3s ease;
+    position: absolute;
+    top: 550px;
+    left:17%;
+    width: 30px;
+    font-size: 30px;
+    font-style:normal ;
+  }
+  
+    body .fb1:hover {
+    background-color: hsl(221, 54%, 39%);
+  }
+    body #myself1{
+    color: rgb(245, 193, 193);
+    position: absolute;
+    top: 770px;
+    left: 10%;
+    font-size: 16px;
+    width: 300px;
+  }
+
+  body .glow2{
+    margin: 0 auto;
+    padding: 2em;
+    width: 75px;
+    height: 20px;
+    background-color:rgb(33, 32, 37) ;
+    top: 1000px;
+    left: 27%;
+    position: absolute;
+    border-radius: 10px;
+    z-index: 10;
+  }
+  @property --angle{
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
+  }
+    body .glow22{
+    --angle:0deg;
+    content: '';
+    position: absolute;
+    height: 80px;
+    width: 150px;
+    background-color: rgb(246, 3, 3);
+    background-image: conic-gradient( from var(--angle),transparent 10%,
+     #7ea0e7,#23bf23,rgb(207, 233, 44));
+    top:1000px;
+    left: 25%;
+    filter: blur(1.5em);
+    opacity: 1;
+    z-index: -100;
+    padding: 0px;
+    border-radius: 5px;
+    animation: 3s spin linear infinite;  
+}
+@keyframes spin {
+    from{
+        --angle:0deg;
+    }
+    to{
+        --angle:360deg;
+    }
+}    
+
+
+    body #e27{
+    color:#fefbfb;
+    font-size: 50px;
+    position: absolute;
+    top: 1800px;
+    left: 16%;
+}
+    body #slide345{
+    color:#ea8181;
+    font-size: 55px;
+    position: absolute;
+    top: 1950px;
+    left: 8%;
+}
+    body #imgp1{
+    position: absolute;
+    top:2200px;
+    left: 10%;
+
+}
+   body  #imgp2{
+    position: absolute;
+    top:2400px;
+    left:10%;
+
+}
+     body #imgp3{
+    position: absolute;
+    top:2600px;
+    left: 10%;
+
+}
+     body #imgp4{
+    position: absolute;
+    top:2800px;
+    left: 10%;
+
+}
+     body #imgp5{
+    position: absolute;
+    top:3000px;
+    left: 10%;
+
+}
+     body #imgp6{
+    position: absolute;
+    top:3200px;
+    left: 10%;
+
+}
+
+     body #imgp7{
+    position: absolute;
+    top:3400px;
+    left: 10%;
+
+}
+     body #imgp8{
+    position: absolute;
+    top:3600px;
+    left: 10%;
+
+}
+     body #imgp9{
+    position: absolute;
+    top:3800px;
+    left: 10%;
+
+}
+     body #imgp10{
+    position: absolute;
+    top:4000px;
+    left: 10%;
+
+}
+     body #imgp11{
+    position: absolute;
+    top:4200px;
+    left: 10%;
+
+}
+     body #imgp12{
+    position: absolute;
+    top:4400px;
+    left: 10%;
+
+}
+   body #cr{
+    color:rgb(49, 112, 168);
+    top:4700px;
+    left: 5%;
+    position: absolute;
+    font-size: 50px;
+}
+   body #imgp132{
+    position: absolute;
+    top:4900px;
+    left: 4%;
+
+}
+   body #imgp162{
+    position: absolute;
+    top:5200px;
+    left: 4%;
+
+}
+}
