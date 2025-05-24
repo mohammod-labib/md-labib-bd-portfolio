@@ -265,7 +265,7 @@ h1{
     margin: 0 auto;
     padding: 2em;
     width: 330px;
-    height: 90px;
+    height: 70px;
     background-color:rgb(33, 32, 37) ;
     top: 1050px;
     left: 37%;
@@ -274,6 +274,7 @@ h1{
     z-index: 10;
     font-color:white;
     font-size:50px;
+    align:center;
   }
   @property --angle{
     syntax: "<angle>";
