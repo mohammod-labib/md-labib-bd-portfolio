@@ -55,8 +55,8 @@
             </p>
             <div class="glow1"></div>
             <div class="glow12"></div>
-            <div class="glow2"><b>Skills</b></div>
-            <div class="glow22"></div>
+            <p class="glow2"><b>Skills</b></p>
+            
 
             <img id="imgp1" src="bc1.png" width="300px">
             <img id="imgp2" src="bc2.jpg"  width="300px">
