@@ -278,7 +278,7 @@ h1{
     width: 400px;
     height: 150px;
     background-color:rgb(33, 32, 37) ;
-    top: 1080px;
+    top: 1050px;
     left: 37%;
     position: absolute;
     border-radius: 10px;
@@ -298,7 +298,7 @@ h1{
     background-color: rgb(246, 3, 3);
     background-image: conic-gradient( from var(--angle),transparent 10%,
      #7ea0e7,#23bf23,rgb(207, 233, 44));
-    top:1080px;
+    top:1050px;
     left: 38%;
     filter: blur(1.5em);
     opacity: 1;
