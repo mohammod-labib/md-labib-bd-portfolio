@@ -73,8 +73,8 @@
             <p id="slide345">Presentation slides</p>
 
              <p id="cr"><b>My certificates</b></p>
-             <img id="imgp132" src="cmso.png"  width="400px">
-             <img id="imgp162" src="wrc.png"  width="400px">
+             <img id="imgp132" src="cmso.png"  width="300px">
+             <img id="imgp162" src="wrc.png"  width="300px">
     </body>
 
 
