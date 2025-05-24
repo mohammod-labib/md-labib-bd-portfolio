@@ -53,9 +53,7 @@
                 Presentation designing and Script or Story Writing.<br>
                 I always my best to complete a project.
             </p>
-            <div class="glow1"></div>
-            <div class="glow12"></div>
-            <p class="glow2"><b>Skills</b></p>
+        
             
 
             <img id="imgp1" src="bc1.png" width="300px">
