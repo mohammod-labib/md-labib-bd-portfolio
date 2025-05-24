@@ -76,7 +76,7 @@ body{
     width: 1000px;
     height: 200;
     position: absolute;
-    top:670px;
+    top:700px;
     left: 6%;
     
   
@@ -103,9 +103,9 @@ h1{
     animation-timeline: view();
     animation-range: entry 0% cover 10% ;
     color:white;
-    font-size: 100px;
+    font-size: 90px;
     position: absolute;
-    top: 1020px;
+    top: 1030px;
     left: 40%;
     z-index: 300;
 
@@ -200,7 +200,7 @@ h1{
     color: white;
     top: 1390px;
     position: absolute;
-    left: 2%;
+    left: 12%;
     font-size: 30px;
 }#ppd{
     color: white;
@@ -211,7 +211,7 @@ h1{
 }
 #pwriter{
     color: white;
-    top: 1290px;
+    top: 1350px;
     position: absolute;
     left: 67%;
     font-size: 70px;
@@ -258,10 +258,10 @@ h1{
   #myself1{
     color: white;
     position: absolute;
-    top: 840px;
-    left: 6%;
+    top: 880px;
+    left: 7%;
     font-size: 20px;
-    width: 900px;
+    width: 1000px;
   }
 
 @keyframes spin {
@@ -275,8 +275,8 @@ h1{
 .glow2{
     margin: 0 auto;
     padding: 2em;
-    width: 270px;
-    height: 80px;
+    width: 330px;
+    height: 100px;
     background-color:rgb(33, 32, 37) ;
     top: 1080px;
     left: 37%;
