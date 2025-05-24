@@ -243,7 +243,7 @@
     top: 780px;
     left: 10%;
     font-size: 16px;
-    width: 300px;
+    width: 400px;
   }
 
   body .glow2{
@@ -258,7 +258,7 @@
     border-radius: 10px;
     z-index: 10;
       font-size:30px;
-      font-align:center;
+      align:center;
       font-color:white;
   }
   @property --angle{
