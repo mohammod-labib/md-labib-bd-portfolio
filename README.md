@@ -30,9 +30,7 @@
 
              
 
-             <p id="skills1">
-                <b>Skills</b>
-            </p>
+            
             <div class="view"></div>
             <div class="block1"></div>
             <div class="block2"></div>
@@ -43,7 +41,7 @@
 
             <div id="line13"></div>
 
-            <a href="https://facebook.com" class="fb1">F</a>
+            <a href="https://www.facebook.com/mdlabib.li/" class="fb1">F</a>
             <p id="pwd">Web development<br>(coding)</p>
             <p id="pwr">Writing</p>
             <p id="ppd">Presentation design</p>
@@ -57,7 +55,7 @@
             </p>
             <div class="glow1"></div>
             <div class="glow12"></div>
-            <div class="glow2"></div>
+            <div class="glow2"><b>Skills</b></div>
             <div class="glow22"></div>
 
             <img id="imgp1" src="bc1.png" width="300px">
