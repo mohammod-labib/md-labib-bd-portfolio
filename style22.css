@@ -48,7 +48,7 @@
     height: 60px;
     position: absolute;
     top:760px;
-    left: 10%;
+    left: 4%;
     }
     
     body #self1{
@@ -241,9 +241,9 @@
     color: rgb(245, 193, 193);
     position: absolute;
     top: 850px;
-    left: 10%;
+    left: 4%;
     font-size: 16px;
-    width: 460px;
+    width: 400px;
   }
 
   body .glow2{
