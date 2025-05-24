@@ -257,9 +257,9 @@
     position: absolute;
     border-radius: 10px;
     z-index: 10;
-      font-size:30px;
-      align:center;
-      font-color:white;
+      font-size:10px;
+      align-content:center;
+      color:white;
   }
   @property --angle{
     syntax: "<angle>";
