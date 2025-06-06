@@ -9,7 +9,7 @@
 
     <body>
 
-          
+          <a href="P2.html" >P2</a>
 
             <div id="box1" class="bx1">
              
